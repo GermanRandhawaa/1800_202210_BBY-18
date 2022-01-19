@@ -1,6 +1,6 @@
 ## My Web Application (Add your Title here)
 
-* [General info](#general-info)
+* [General info](My name is Germanpreet Singh an I am very excited about this project)
 * [Technologies](#technologies)
 * [Contents](#content)
 

@@ -7,7 +7,7 @@
 ## General Info
 This browser based web application to ...
 * My name is Nanakpreet Singh. I hope the best for my team.
-	
+* My name is Pahul. I am excited.
 ## Technologies
 Technologies used for this project:
 * HTML, CSS
